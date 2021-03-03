@@ -1,0 +1,13 @@
+D:\studiotest\Practik\Practik\bin\Debug\netcoreapp3.1\Practik.exe
+D:\studiotest\Practik\Practik\bin\Debug\netcoreapp3.1\Practik.deps.json
+D:\studiotest\Practik\Practik\bin\Debug\netcoreapp3.1\Practik.runtimeconfig.json
+D:\studiotest\Practik\Practik\bin\Debug\netcoreapp3.1\Practik.runtimeconfig.dev.json
+D:\studiotest\Practik\Practik\bin\Debug\netcoreapp3.1\Practik.dll
+D:\studiotest\Practik\Practik\bin\Debug\netcoreapp3.1\Practik.pdb
+D:\studiotest\Practik\Practik\obj\Debug\netcoreapp3.1\Practik.csprojAssemblyReference.cache
+D:\studiotest\Practik\Practik\obj\Debug\netcoreapp3.1\Practik.AssemblyInfoInputs.cache
+D:\studiotest\Practik\Practik\obj\Debug\netcoreapp3.1\Practik.AssemblyInfo.cs
+D:\studiotest\Practik\Practik\obj\Debug\netcoreapp3.1\Practik.csproj.CoreCompileInputs.cache
+D:\studiotest\Practik\Practik\obj\Debug\netcoreapp3.1\Practik.dll
+D:\studiotest\Practik\Practik\obj\Debug\netcoreapp3.1\Practik.pdb
+D:\studiotest\Practik\Practik\obj\Debug\netcoreapp3.1\Practik.genruntimeconfig.cache
