@@ -20,6 +20,7 @@ namespace Practik
             //Console.WriteLine(countingValleys(8, "DDUUDDUDUUUD"));
             //Console.WriteLine(repeatedString("aba", 10));
             Random rand = new Random();
+            Console.WriteLine("test");
             TaskArrays taskArrays = new TaskArrays();
             BK bk = new BK();
             bk.fVar = 10;

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\studiotest\\Practik\\Practik\\Practik.csproj",
+      "projectUniqueName": "D:\\работа\\Practic\\practica\\Practik\\Practik\\Practik.csproj",
       "projectName": "Practik",
-      "projectPath": "D:\\studiotest\\Practik\\Practik\\Practik.csproj",
+      "projectPath": "D:\\работа\\Practic\\practica\\Practik\\Practik\\Practik.csproj",
       "packagesPath": "C:\\Users\\Mvideo\\.nuget\\packages\\",
-      "outputPath": "D:\\studiotest\\Practik\\Practik\\obj\\",
+      "outputPath": "D:\\работа\\Practic\\practica\\Practik\\Practik\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mvideo\\AppData\\Roaming\\NuGet\\NuGet.Config",
