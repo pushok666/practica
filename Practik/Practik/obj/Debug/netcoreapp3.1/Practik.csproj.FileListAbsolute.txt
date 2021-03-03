@@ -11,3 +11,16 @@ D:\studiotest\Practik\Practik\obj\Debug\netcoreapp3.1\Practik.csproj.CoreCompile
 D:\studiotest\Practik\Practik\obj\Debug\netcoreapp3.1\Practik.dll
 D:\studiotest\Practik\Practik\obj\Debug\netcoreapp3.1\Practik.pdb
 D:\studiotest\Practik\Practik\obj\Debug\netcoreapp3.1\Practik.genruntimeconfig.cache
+D:\работа\Practic\practica\Practik\Practik\bin\Debug\netcoreapp3.1\Practik.exe
+D:\работа\Practic\practica\Practik\Practik\bin\Debug\netcoreapp3.1\Practik.deps.json
+D:\работа\Practic\practica\Practik\Practik\bin\Debug\netcoreapp3.1\Practik.runtimeconfig.json
+D:\работа\Practic\practica\Practik\Practik\bin\Debug\netcoreapp3.1\Practik.runtimeconfig.dev.json
+D:\работа\Practic\practica\Practik\Practik\bin\Debug\netcoreapp3.1\Practik.dll
+D:\работа\Practic\practica\Practik\Practik\bin\Debug\netcoreapp3.1\Practik.pdb
+D:\работа\Practic\practica\Practik\Practik\obj\Debug\netcoreapp3.1\Practik.csprojAssemblyReference.cache
+D:\работа\Practic\practica\Practik\Practik\obj\Debug\netcoreapp3.1\Practik.AssemblyInfoInputs.cache
+D:\работа\Practic\practica\Practik\Practik\obj\Debug\netcoreapp3.1\Practik.AssemblyInfo.cs
+D:\работа\Practic\practica\Practik\Practik\obj\Debug\netcoreapp3.1\Practik.csproj.CoreCompileInputs.cache
+D:\работа\Practic\practica\Practik\Practik\obj\Debug\netcoreapp3.1\Practik.dll
+D:\работа\Practic\practica\Practik\Practik\obj\Debug\netcoreapp3.1\Practik.pdb
+D:\работа\Practic\practica\Practik\Practik\obj\Debug\netcoreapp3.1\Practik.genruntimeconfig.cache

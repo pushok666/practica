@@ -8,17 +8,19 @@ namespace Practik
     {
         public int hourglassSum(int[][] arr)
         {
-            int sum = 0;
+            //int sum = 0;
             for (int i = 0; i < arr.Length; i++)
             {
-                if (i + 2 <= 6)
+
+                for (int j = 0; j < arr.Length; j++)
                 {
-                    for (int j = 0; j < arr.Length; j++)
+                    if (i >= 1 && i <= 4 && j >= 1 && j <= 4)
                     {
-                        sum = arr[i][j] +
+                        Console.WriteLine("+");
                     }
                 }
-                
+
+
             }
             return 0;
         }

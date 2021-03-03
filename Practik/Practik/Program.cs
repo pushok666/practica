@@ -16,13 +16,29 @@ namespace Practik
 
 
 
-            
+
             //Console.WriteLine(countingValleys(8, "DDUUDDUDUUUD"));
             //Console.WriteLine(repeatedString("aba", 10));
             Random rand = new Random();
-            Console.WriteLine("test");
+            int[,] arr = new int[6,6];
+            for (int i = 0; i < arr.Length-1; i++)
+            {
+                for (int j = 0; j < arr.Length-1; j++)
+                {
+                    arr[i,j] = rand.Next(100);
+                }
+            }
+            for (int i = 0; i < arr.Length; i++)
+            {
+                for (int j = 0; j < arr.Length; j++)
+                {
+                    Console.WriteLine(arr[i,j]);
+                }
+            }
+            
             TaskArrays taskArrays = new TaskArrays();
-            BK bk = new BK();
+            //taskArrays.hourglassSum(arr);
+            /*BK bk = new BK();
             bk.fVar = 10;
             Console.WriteLine("как вычислить вам факториал? 1 - итерационно 2 - рекурсией");
             string vubor = Console.ReadLine();
@@ -68,7 +84,7 @@ namespace Practik
             Human drager = new Drager();// upcast конкретное к общему
             Drager drager1 = (Drager)drager;// downcast  общее к конкретному
             Boozer crosman = new Drager();
-            
+            */
             
             
             

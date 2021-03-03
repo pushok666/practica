@@ -6,5 +6,7 @@ namespace Practik
 {
     class Interfaces
     {
+        object a = new object();
+        int b = new int();
     }
 }
