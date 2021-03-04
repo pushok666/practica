@@ -13,9 +13,9 @@
         }
         public override double GetDiscountPrice(User user)
         {
-            if (Name[0]=='З')
+            if (this.Name[0] == 'З')
             {
-                Price -= 30;
+                Price = Price - 30;
             }
             return Price;
         }

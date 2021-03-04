@@ -11,5 +11,9 @@
             Price = price;
             Material = material;
         }
+        public override double GetDiscountPrice(User user)// скидка на всех резиновых баб 25%))
+        {
+            return Price * 0.25;
+        }
     }
 }

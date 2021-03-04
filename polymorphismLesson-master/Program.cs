@@ -7,11 +7,14 @@ namespace SexShop
     {
         static void Main(string[] args)
         {
+            
+
             User user = new User(
-                "Захар",
+                "Арсений",
                 "Улица Пушкина, дом Колотушкина",
                 100000,
-                550
+                550,
+                "men"
                 );
 
             Console.WriteLine("Список товаров:");
@@ -82,14 +85,26 @@ namespace SexShop
             Console.WriteLine("Цена: " + vasilin.Price);
             Console.WriteLine("Производитель: " + vasilin.Manufacturer);
             Console.WriteLine(new String('-', 25));
-
+            Strapon strapon = new Strapon(
+                "страпон",
+                1000,
+                "МБФ ГОСТ Трах",
+                15
+                );
+            Console.WriteLine("Страпон");
+            Console.WriteLine("Название: " + strapon.Name);
+            Console.WriteLine("Цена: " + strapon.Price);
+            Console.WriteLine("Производитель: " + strapon.Manufacturer);
+            Console.WriteLine("Размер: " + strapon.Size);
+            Console.WriteLine(new String('-', 25));
 
             Product[] products = new Product[] {
                 gusDolls,
                 DirtyJoes,
                 HorsesAphrodisiacs,
                 FriendAphrodisiacs,
-                vasilin
+                vasilin,
+                strapon
             };
 
             Informer informer = new Informer();
