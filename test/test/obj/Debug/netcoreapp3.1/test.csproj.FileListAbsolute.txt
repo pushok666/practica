@@ -1,0 +1,13 @@
+D:\работа\Practic\practica\test\test\obj\Debug\netcoreapp3.1\test.csprojAssemblyReference.cache
+D:\работа\Practic\practica\test\test\obj\Debug\netcoreapp3.1\test.AssemblyInfoInputs.cache
+D:\работа\Practic\practica\test\test\obj\Debug\netcoreapp3.1\test.AssemblyInfo.cs
+D:\работа\Practic\practica\test\test\obj\Debug\netcoreapp3.1\test.csproj.CoreCompileInputs.cache
+D:\работа\Practic\practica\test\test\bin\Debug\netcoreapp3.1\test.exe
+D:\работа\Practic\practica\test\test\bin\Debug\netcoreapp3.1\test.deps.json
+D:\работа\Practic\practica\test\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.json
+D:\работа\Practic\practica\test\test\bin\Debug\netcoreapp3.1\test.runtimeconfig.dev.json
+D:\работа\Practic\practica\test\test\bin\Debug\netcoreapp3.1\test.dll
+D:\работа\Practic\practica\test\test\bin\Debug\netcoreapp3.1\test.pdb
+D:\работа\Practic\practica\test\test\obj\Debug\netcoreapp3.1\test.dll
+D:\работа\Practic\practica\test\test\obj\Debug\netcoreapp3.1\test.pdb
+D:\работа\Practic\practica\test\test\obj\Debug\netcoreapp3.1\test.genruntimeconfig.cache

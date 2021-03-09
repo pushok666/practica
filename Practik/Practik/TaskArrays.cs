@@ -6,7 +6,7 @@ namespace Practik
 {
     public class TaskArrays
     {
-        public int hourglassSum(int[][] arr)
+        public int hourglassSum(int[,] arr)
         {
             //int sum = 0;
             for (int i = 0; i < arr.Length; i++)
@@ -16,7 +16,7 @@ namespace Practik
                 {
                     if (i >= 1 && i <= 4 && j >= 1 && j <= 4)
                     {
-                        Console.WriteLine("+");
+                        Console.WriteLine(arr[i, j]);
                     }
                 }
 

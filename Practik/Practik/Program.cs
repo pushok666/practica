@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Threading;
 using Practik;
@@ -20,24 +21,35 @@ namespace Practik
             //Console.WriteLine(countingValleys(8, "DDUUDDUDUUUD"));
             //Console.WriteLine(repeatedString("aba", 10));
             Random rand = new Random();
-            int[,] arr = new int[6,6];
-            for (int i = 0; i < arr.Length-1; i++)
+            int[][] numbers = new int[3][];
+            numbers[0] = new int[] { 1, 2 };
+            numbers[1] = new int[] { 1, 2, 3 };
+            numbers[2] = new int[] { 1, 2, 3, 4, 5 };
+            /*int[,] arr = new int[6,6];
+            for (int i = 0; i < 6; i++)
             {
-                for (int j = 0; j < arr.Length-1; j++)
+                for (int j = 0; j < 6; j++)
                 {
                     arr[i,j] = rand.Next(100);
                 }
             }
-            for (int i = 0; i < arr.Length; i++)
+            for (int i = 0; i < 6; i++)
             {
-                for (int j = 0; j < arr.Length; j++)
+                for (int j = 0; j < 6; j++)
                 {
-                    Console.WriteLine(arr[i,j]);
+                    Console.WriteLine("{0,10}", arr[i, j]);
                 }
+                //Console.WriteLine("\t");
+                Console.WriteLine();
             }
             
             TaskArrays taskArrays = new TaskArrays();
-            //taskArrays.hourglassSum(arr);
+            taskArrays.hourglassSum(arr);*/
+
+            TestTask testTask = new TestTask();
+            testTask.DeCrypt("23154", "csaerntiofarmit on ");
+            //testTask.SuperPuperDeepCounter(numbers);
+            //Console.WriteLine(testTask.TriangleVar(1275));
             /*BK bk = new BK();
             bk.fVar = 10;
             Console.WriteLine("как вычислить вам факториал? 1 - итерационно 2 - рекурсией");
@@ -85,9 +97,9 @@ namespace Practik
             Drager drager1 = (Drager)drager;// downcast  общее к конкретному
             Boozer crosman = new Drager();
             */
-            
-            
-            
+
+
+
             Console.ReadKey();
         }
 
