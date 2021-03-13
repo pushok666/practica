@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\работа\\Practic\\practica\\Practik\\Practik\\Practik.csproj": {}
+    "D:\\работа\\Practic\\practica\\LetovZoo\\LetovZoo\\LetovZoo\\LetovZoo.csproj": {}
   },
   "projects": {
-    "D:\\работа\\Practic\\practica\\Practik\\Practik\\Practik.csproj": {
+    "D:\\работа\\Practic\\practica\\LetovZoo\\LetovZoo\\LetovZoo\\LetovZoo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\работа\\Practic\\practica\\Practik\\Practik\\Practik.csproj",
-        "projectName": "Practik",
-        "projectPath": "D:\\работа\\Practic\\practica\\Practik\\Practik\\Practik.csproj",
+        "projectUniqueName": "D:\\работа\\Practic\\practica\\LetovZoo\\LetovZoo\\LetovZoo\\LetovZoo.csproj",
+        "projectName": "LetovZoo",
+        "projectPath": "D:\\работа\\Practic\\practica\\LetovZoo\\LetovZoo\\LetovZoo\\LetovZoo.csproj",
         "packagesPath": "C:\\Users\\Mvideo\\.nuget\\packages\\",
-        "outputPath": "D:\\работа\\Practic\\practica\\Practik\\Practik\\obj\\",
+        "outputPath": "D:\\работа\\Practic\\practica\\LetovZoo\\LetovZoo\\LetovZoo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mvideo\\AppData\\Roaming\\NuGet\\NuGet.Config",

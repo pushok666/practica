@@ -1,0 +1,13 @@
+D:\работа\Practic\practica\LetovZoo\LetovZoo\LetovZoo\bin\Debug\netcoreapp3.1\LetovZoo.exe
+D:\работа\Practic\practica\LetovZoo\LetovZoo\LetovZoo\bin\Debug\netcoreapp3.1\LetovZoo.deps.json
+D:\работа\Practic\practica\LetovZoo\LetovZoo\LetovZoo\bin\Debug\netcoreapp3.1\LetovZoo.runtimeconfig.json
+D:\работа\Practic\practica\LetovZoo\LetovZoo\LetovZoo\bin\Debug\netcoreapp3.1\LetovZoo.runtimeconfig.dev.json
+D:\работа\Practic\practica\LetovZoo\LetovZoo\LetovZoo\bin\Debug\netcoreapp3.1\LetovZoo.dll
+D:\работа\Practic\practica\LetovZoo\LetovZoo\LetovZoo\bin\Debug\netcoreapp3.1\LetovZoo.pdb
+D:\работа\Practic\practica\LetovZoo\LetovZoo\LetovZoo\obj\Debug\netcoreapp3.1\LetovZoo.csprojAssemblyReference.cache
+D:\работа\Practic\practica\LetovZoo\LetovZoo\LetovZoo\obj\Debug\netcoreapp3.1\LetovZoo.AssemblyInfoInputs.cache
+D:\работа\Practic\practica\LetovZoo\LetovZoo\LetovZoo\obj\Debug\netcoreapp3.1\LetovZoo.AssemblyInfo.cs
+D:\работа\Practic\practica\LetovZoo\LetovZoo\LetovZoo\obj\Debug\netcoreapp3.1\LetovZoo.csproj.CoreCompileInputs.cache
+D:\работа\Practic\practica\LetovZoo\LetovZoo\LetovZoo\obj\Debug\netcoreapp3.1\LetovZoo.dll
+D:\работа\Practic\practica\LetovZoo\LetovZoo\LetovZoo\obj\Debug\netcoreapp3.1\LetovZoo.pdb
+D:\работа\Practic\practica\LetovZoo\LetovZoo\LetovZoo\obj\Debug\netcoreapp3.1\LetovZoo.genruntimeconfig.cache
