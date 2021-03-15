@@ -18,7 +18,7 @@ namespace LetovZoo
         
         public void Feed(BespontovyyPie bespontovyyPie, string name)
         {
-            Console.WriteLine(bespontovyyPie.Name);
+            
             Console.WriteLine("На, {0},кушай", name);
 
         }

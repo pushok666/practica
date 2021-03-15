@@ -13,6 +13,14 @@ namespace LetovZoo
             Valer = valer;
         }
 
-        
+        public override void EatPie()
+        {
+            RazlogitsaNaPlesenILipovuiMed();
+        }
+        private void RazlogitsaNaPlesenILipovuiMed()
+        {
+
+            Console.WriteLine("{0} разложисля на плесень и липовый мед",this.Name);
+        }
     }
 }
