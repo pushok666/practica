@@ -19,6 +19,11 @@ namespace BaseEFCore
                 db.SaveChanges();
                 Console.WriteLine("all save");
 
+               
+            }
+
+            using(AplicationContext db = new AplicationContext())
+            {
                 var users = db.Users.ToList();
                 Console.WriteLine("List obj");
                 foreach (User u in users)
@@ -26,6 +31,10 @@ namespace BaseEFCore
                     Console.WriteLine($"{u.Id}.{u.Name} - {u.Age}");
                 }
             }
+
+            
         }
+
+       
     }
 }

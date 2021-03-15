@@ -17,7 +17,7 @@ namespace BaseEFCore
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)//установка параметров подключения
         {
-            optionsBuilder.UseSqlServer("Server=(localdb)\\mssqllocaldb;Database=helloappdb;Trusted_Connection=True;");
+            optionsBuilder.UseSqlServer(@"Server=(localdb)\\mssqllocaldb;Database=helloappdb;Trusted_Connection=True;");
         }
     }
 }
