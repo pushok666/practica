@@ -7,6 +7,7 @@ namespace CRUD
     {
         static void Main(string[] args)
         {
+            Console.ForegroundColor = ConsoleColor.Green;
             using(AplicationContext db = new AplicationContext())
             {
                 // add data
